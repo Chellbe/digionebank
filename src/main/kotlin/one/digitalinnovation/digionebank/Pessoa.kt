@@ -1,13 +1,13 @@
 package one.digitalinnovation.digionebank
 
 class Pessoa {
-    var nome: String = "Jether"
+    var nome: String = "Rachel"
     var cpf: String = "123.456.789-10"
 }
 
 fun main() {
-    val jether = Pessoa()
+    val rachel = Pessoa()
 
-    println(jether.nome)
-    println(jether.cpf)
+    println(rachel.nome)
+    println(rachel.cpf)
 }
